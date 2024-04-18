@@ -38,7 +38,7 @@ function Banner() {
                 <div className='w-2/3'>
                 <h3 className='  text-3xl font-semibold'>Hi , I am</h3>
                 <h1 className=' mt-4 text-5xl font-bold'> Taqqadus Zahra </h1>
-                <h2 className=' mt-4 text-2xl'>  I am <span className='font-bold' ref={el}></span></h2>
+                <h2 className=' mt-4 text-2xl'> `` I am <span className='font-bold' ref={el}></span></h2>
                 <p className='mt-4'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Possimus veniam minus sunt quo illo quisquam corrupti, dolorem ipsam minima soluta aspernatur deserunt atque fugiat qui omnis nemo. Reiciendis, quod Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque ducimus commodi obcaecati ut similique expedita sequi a numquam necessitatibus accusantium, doloribus culpa cum nam, vel ipsum magni! Reprehenderit, dolore amet?</p>
                 {/* icons */}
                 <div className='icon-container space-x-5 flex mt-4'>
